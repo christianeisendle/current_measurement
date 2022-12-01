@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "current_measurement")(type "KiCad")(uri "${KIPRJMOD}/current_measurement.kicad_sym")(options "")(descr ""))
+)
