@@ -7,7 +7,7 @@
   (title_block
     (title "Current Measurement")
     (date "2022-12-01")
-    (rev "1.0")
+    (rev "1.1")
     (company "Christian Eisendle")
   )
 
@@ -1187,7 +1187,7 @@
     (uuid 1de28cda-4d36-41c8-83c0-b9aade470c4f)
     (property "Reference" "U1" (id 0) (at 87.63 59.69 0))
     (property "Value" "MAX680CSA+T" (id 1) (at 87.63 62.23 0))
-    (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 73.66 57.15 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 73.66 57.15 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX680-MAX681.pdf" (id 3) (at 73.66 54.61 0)
@@ -1735,7 +1735,7 @@
       (reference "RV1") (unit 1) (value "100k") (footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal")
     )
     (path "/1de28cda-4d36-41c8-83c0-b9aade470c4f"
-      (reference "U1") (unit 1) (value "MAX680CSA+T") (footprint "Package_DIP:DIP-8_W7.62mm")
+      (reference "U1") (unit 1) (value "MAX680CSA+T") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/084b112d-dcfd-4801-aa54-60bf427059e5"
       (reference "U2") (unit 1) (value "INA105") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
